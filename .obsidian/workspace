@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "331915d8130cae81",
+    "type": "split",
+    "children": [
+      {
+        "id": "6742ba17d7c5d792",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Productivity/digital brain concept.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f609eeb2f1ac8a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fb46f5ffd0e8b77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87acddb12aeb37ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74a34e4f9190750d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8aad7b2b4b80378e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b6917f61c2a13d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6537e42d00395c3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Productivity/digital brain concept.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6742ba17d7c5d792",
+  "lastOpenFiles": [
+    "Productivity/digital brain concept.md",
+    "Developer/FrontEnd/React/useContext.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Productivity/Digital garden.md",
+    "Developer/DB/NoSQL/Untitled.md",
+    "Developer/DB/Untitled.md",
+    "Productivity/pomodoro.md"
+  ]
+}
